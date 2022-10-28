@@ -281,7 +281,7 @@ startInstall()
         
        
         cd docker/nginx-proxy-manager
-        wget https://github.com/elblasy33/docker-beso/blob/main/docker_compose.nginx_proxy_manager.yml
+        wget https://github.com/elblasy33/docker-beso/blob/main/docker-compose.yml
         
         
       
