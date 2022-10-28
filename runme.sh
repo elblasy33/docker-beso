@@ -278,8 +278,12 @@ startInstall()
         echo "    1. Pulling a default NGinX Proxy Manager docker-compose.yml file."
 
         mkdir -p docker/nginx-proxy-manager
+        
+       
         cd docker/nginx-proxy-manager
-
+        wget https://github.com/elblasy33/docker_installs/blob/main/install_docker_nproxyman.sh
+        mv install_docker_nproxyman.sh docker-compose.yml
+        
       
         echo "    2. Running the docker-compose.yml to install and start NGinX Proxy Manager"
         echo ""
