@@ -280,8 +280,7 @@ startInstall()
         mkdir -p docker/nginx-proxy-manager
         cd docker/nginx-proxy-manager
 
-        curl https://github.com/elblasy33/docker-beso/-/raw/main/docker_compose.nginx_proxy_manager.yml -o docker-compose.yml >> ~/docker-script-install.log 2>&1
-
+      
         echo "    2. Running the docker-compose.yml to install and start NGinX Proxy Manager"
         echo ""
         echo ""
