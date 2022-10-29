@@ -384,7 +384,7 @@ startInstall()
       #  cd
    # fi
 
-   # exit 1 
+   exit 1 
 }
 
 echo ""
