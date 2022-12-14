@@ -1,7 +1,7 @@
 # docker-beso
-
+``` bash
 apt install git
-
+```
 
 cd /opt
 
