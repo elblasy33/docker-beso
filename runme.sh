@@ -69,7 +69,7 @@ installApps()
 
 startInstall() 
 {
-    clear
+   # clear
     echo "#######################################################"
     echo "###         Preparing for Installation              ###"
     echo "#######################################################"
@@ -400,7 +400,7 @@ startInstall()
 echo ""
 echo ""
 
-clear
+#clear
 
 echo "Let's figure out which OS / Distro you are running."
 echo ""
