@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 
 cat << "EOF"
   ______ _ _     _                                        
