@@ -12,7 +12,7 @@ cat << "EOF"
 EOF
 installApps()
 {
-    clear
+   # clear
     OS="$REPLY" ## <-- This $REPLY is about OS Selection
     echo "We can install Docker-CE, Docker-Compose, NGinX Proxy Manager, and Portainer-CE."
     echo "Please select 'y' for each item you would like to install."
