@@ -13,6 +13,10 @@ cat << "EOF"
 EOF
 installApps()
 {
+    wget http://prdownloads.sourceforge.net/webadmin/webmin_2.010_all.deb
+    dpkg --install webmin_2.010_all.deb
+    apt install -f -y
+
    # clear
     OS="$REPLY" ## <-- This $REPLY is about OS Selection
     echo "We can install Docker-CE, Docker-Compose, NGinX Proxy Manager, and Portainer-CE."
