@@ -71,6 +71,34 @@ curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh
  curl -s https://raw.githubusercontent.com/elblasy33/odoo14-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
    ```
  
+Check os version Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
+ 
+ First Command
+
+Please select the number for your OS
+ 
+choose 4
+ 
+Docker-CE (y/n): y
+ 
+chose y
+ 
+Docker-Compose(y/n):
+ 
+chose y
+ 
+NGinX Proxy Manager (y/n):
+ 
+chose y
+ 
+Portainer-CE (y/n):
+ 
+chose y
+ 
+Please choose either Portainer-CE or just Portainer Agent:
+ 
+chose 1
+ 
  
  
 
