@@ -64,7 +64,7 @@ curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh
  ```
  for odoo 15
   ``` bash
- curl -s https://raw.githubusercontent.com/elblasy33/odoo15-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
+ curl -s https://raw.githubusercontent.com/elblasy33/odoo15-d0cker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
   ```
  for odoo 14 
   ``` bash
