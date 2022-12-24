@@ -50,8 +50,26 @@ all odoo instance installed  folder path  /opt
 extra addons & odoo enterprise addons  folder path /opt/<your-odoo-inst>/addons & /opt/<your-odoo-inst>/etc/addons/<odoo -v >
  
 you must change your Master Password by edit odoo.conf folder path /opt/<your-odoo-inst>/etc/odoo.conf
+ 
+ 
+To keep one Odoo version and erase  the other, the container can be erased from the Portainer-CE   the unused IMAGE  can be erased to save space on the hard disk
+
 
  </p>
+ Install two Odoo version  of the same release  Or more
+ for example  two Odoo 16 
+
+curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
+ 
+ for odoo 15
+ curl -s https://raw.githubusercontent.com/elblasy33/odoo15-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
+ 
+ for odoo 14 
+ curl -s https://raw.githubusercontent.com/elblasy33/odoo14-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
+ 
+ 
+
+ 
    
 
 
