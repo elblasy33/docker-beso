@@ -33,17 +33,17 @@ password: your pass
  
 Navigate to your server hostname / IP address on port 9000 and create your admin account for Portainer-CE
  
-Navigate to your server hostname / IP address on port 81 to setup
+Navigate to your  81 to setup
 NGinX Proxy Manager admin account.
 The default login credentials for NGinX Proxy Manager are:
 username: admin@example.com
 password: changeme   
  
-Started Odoo16 @ http://localhost:8016 | Master Password: Elblasy2022@1234 | Live chat port: 20016
+Started Odoo16 @ server hostname / IP address on port8016 | Master Password: Elblasy2022@1234 | Live chat port: 20016
  
-Started Odoo15 @ http://localhost:8015 | Master Password: Elblasy2022@1234 | Live chat port: 20015
+Started Odoo15 @ server hostname / IP address on port:8015 | Master Password: Elblasy2022@1234 | Live chat port: 20015
  
-Started Odoo14 @ http://localhost:8014 | Master Password: Elblasy2022@1234 | Live chat port: 20014
+Started Odoo14 @ server hostname / IP address on port:8014 | Master Password: Elblasy2022@1234 | Live chat port: 20014
  </p>
    
 
