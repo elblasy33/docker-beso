@@ -31,8 +31,11 @@ NGinX Proxy Manager admin account.
 The default login credentials for NGinX Proxy Manager are:
 username: admin@example.com
 password: changeme   
+ 
 Started Odoo16 @ http://localhost:8016 | Master Password: Elblasy2022@1234 | Live chat port: 20016
+ 
 Started Odoo15 @ http://localhost:8015 | Master Password: Elblasy2022@1234 | Live chat port: 20015
+ 
 Started Odoo14 @ http://localhost:8014 | Master Password: Elblasy2022@1234 | Live chat port: 20014
  </p>
    
