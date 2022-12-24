@@ -88,23 +88,23 @@ choose 4
  
 Docker-CE (y/n): y
  
-chose y
+choose y
  
 Docker-Compose(y/n):
  
-chose y
+choose y
  
 NGinX Proxy Manager (y/n):
  
-chose y
+choose y
  
 Portainer-CE (y/n):
  
-chose y
+choose y
  
 Please choose either Portainer-CE or just Portainer Agent:
  
-chose 1
+choose 1
  
  
  
