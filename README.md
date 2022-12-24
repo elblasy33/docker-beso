@@ -19,6 +19,7 @@
 curl  -L -o elblasy.sh https://raw.githubusercontent.com/elblasy33/docker-beso/main/elblasy.sh  && chmod +x elblasy.sh && ./elblasy.sh
 
 ```
+#
 after reboot 
     Navigate to your server hostname / IP address on port 9000 and create your admin account for Portainer-CE
     
