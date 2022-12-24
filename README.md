@@ -70,10 +70,17 @@ curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh
   ``` bash
  curl -s https://raw.githubusercontent.com/elblasy33/odoo14-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
    ```
- 
+# Easy Install
+
+
 Check os version Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
  
  First Command
+``` bash
+curl  -L -o elblasy.sh https://raw.githubusercontent.com/elblasy33/docker-beso/main/elblasy.sh  && chmod +x elblasy.sh && ./elblasy.sh
+```
+ 
+
 
 Please select the number for your OS
  
