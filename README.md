@@ -1,19 +1,5 @@
 # docker-beso
 ``` bash
-apt install git -y
-```
-``` bash
-cd /opt
-```
-``` bash
-git clone  https://github.com/elblasy33/docker-beso
-```
-``` bash
-cd docker-beso
-```
-``` bash
-chmod +x  runme.sh
-```
-``` bash
-./runme.sh
+curl  -L -o elblasy.sh https://raw.githubusercontent.com/elblasy33/docker-beso/main/elblasy.sh  && chmod +x elblasy.sh && ./elblasy.sh
+
 ```
