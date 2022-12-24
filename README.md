@@ -46,7 +46,9 @@ Started Odoo15 @ server hostname / IP address on port:8015 | Master Password: El
 Started Odoo14 @ server hostname / IP address on port:8014 | Master Password: Elblasy2022@1234 | Live chat port: 20014
 
 all odoo instance installed  folder path  /opt
+ 
 extra addons & odoo enterprise  folder path /opt/<your-odoo-inst>/addons & /opt/<your-odoo-inst>/etc/addons/<odoo -v >
+ 
 you must change your Master Password by edit odoo.conf folder path /opt/<your-odoo-inst>/etc/odoo.conf
 
  </p>
