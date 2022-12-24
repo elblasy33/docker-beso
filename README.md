@@ -24,6 +24,11 @@ curl  -L -o elblasy.sh https://raw.githubusercontent.com/elblasy33/docker-beso/m
 <p>
 
 after reboot 
+ 
+Navigate to your server hostname / IP address on port 10000 to log in webmin
+username: your root
+password: your pass 
+ 
 Navigate to your server hostname / IP address on port 9000 and create your admin account for Portainer-CE
  
 Navigate to your server hostname / IP address on port 81 to setup
