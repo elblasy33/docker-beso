@@ -59,17 +59,17 @@ To keep one Odoo version and erase  the other, the container can be erased from 
  <p>
  Install two Odoo version  of the same release  Or more
  for example  two Odoo 16 
-
-curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh | sudo bash -s "<odoo-name>" "<odoo port>""<chat port>"
- 
+``` bash
+curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh | sudo bash -s  <odoo-name> <odoo port> <chat port> 
+ ```
  for odoo 15
-  
+  ``` bash
  curl -s https://raw.githubusercontent.com/elblasy33/odoo15-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
- 
+  ```
  for odoo 14 
-  
+  ``` bash
  curl -s https://raw.githubusercontent.com/elblasy33/odoo14-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo port> <chat port>
-  
+   ```
   </p>
  
  
