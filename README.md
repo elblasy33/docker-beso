@@ -38,7 +38,7 @@ after reboot
    Started Odoo15 @ http://localhost:8015 | Master Password: Elblasy2022@1234 | Live chat port: 20015
    Started Odoo14 @ http://localhost:8014 | Master Password: Elblasy2022@1234 | Live chat port: 20014
    
-   <p/>
+ </p>
    
 
 
