@@ -33,7 +33,7 @@ password: your pass
  
 Navigate to your server hostname / IP address on port 9000 and create your admin account for Portainer-CE
  
-Navigate to your  81 to setup
+Navigate to your server hostname/ IP address on port 81 to setup
 NGinX Proxy Manager admin account.
 The default login credentials for NGinX Proxy Manager are:
 username: admin@example.com
