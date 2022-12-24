@@ -1,5 +1,5 @@
 # docker-beso - Tested  Ubuntu 20.04.5 LTS & Ubuntu 22.04.1 LTS
-# With one command, the following will be installed
+#  one command, the following will be installed
 [ webmin](https://www.webmin.com/)
 #
 [ docker](https://www.docker.com/)
