@@ -86,7 +86,7 @@ Please select the number for your OS
  
 choose 4
  
-Docker-CE (y/n): y
+Docker-CE (y/n): 
  
 choose y
  
