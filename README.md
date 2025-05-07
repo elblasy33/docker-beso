@@ -17,9 +17,9 @@ The following components will be installed:
 * [Docker Compose](https://docs.docker.com/engine/reference/commandline/compose/)
 * [Portainer](https://docs.portainer.io/)
 * [NGINX Proxy Manager](https://nginxproxymanager.com/)
-* [Odoo 14](https://www.odoo.com/documentation/14.0/)
-* [Odoo 15](https://www.odoo.com/documentation/15.0/)
 * [Odoo 16](https://www.odoo.com/documentation/16.0/)
+* [Odoo 17](https://www.odoo.com/documentation/17.0/)
+* [Odoo 18](https://www.odoo.com/documentation/18.0/)
 
 ### 🛠️ Installation Command
 
