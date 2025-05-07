@@ -1,6 +1,3 @@
-[![README.md: What Is It, How To Create It ...](https://images.openai.com/thumbnails/abeb2512f50f6e83e238c0ae3dc6bb2a.jpeg)](https://markdown.land/readme-md)
-
-Here's an enhanced and visually appealing version of your `README.md` file, utilizing Markdown features such as tables, inline HTML for color styling, and structured formatting to improve readability and user experience.([Stack Overflow][1])
 
 ---
 
@@ -80,22 +77,22 @@ You can install multiple instances of the same Odoo version (e.g., two Odoo 16 i
   curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo-port> <chat-port>
   ```
 
-* **Odoo 15:**
+* **Odoo 17:**
 
   ```bash
-  curl -s https://raw.githubusercontent.com/elblasy33/odoo15-d0cker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo-port> <chat-port>
+  curl -s https://raw.githubusercontent.com/elblasy33/odoo17-d0cker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo-port> <chat-port>
   ```
 
-* **Odoo 14:**
+* **Odoo 18:**
 
   ```bash
-  curl -s https://raw.githubusercontent.com/elblasy33/odoo14-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo-port> <chat-port>
+  curl -s https://raw.githubusercontent.com/elblasy33/odoo18-docker-sh/main/run.sh | sudo bash -s <odoo-name> <odoo-port> <chat-port>
   ```
 
-> 📌 **Example:** To install an Odoo 16 instance named `odoo16-two` on ports `8017` and `20017`:
+> 📌 **Example:** To install an Odoo 18 instance named `odoo18-two` on ports `8018` and `20018`:
 
 ```bash
-curl -s https://raw.githubusercontent.com/elblasy33/odoo16-docker-sh/main/run.sh | sudo bash -s odoo16-two 8017 20017
+curl -s https://raw.githubusercontent.com/elblasy33/odoo18-docker-sh/main/run.sh | sudo bash -s odoo18-two 8018 20018
 ```
 
 ---
