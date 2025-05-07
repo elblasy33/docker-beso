@@ -115,29 +115,7 @@ curl -s https://raw.githubusercontent.com/elblasy33/odoo18-docker-sh/main/run.sh
 
 ---
 
-## 🎨 Visual Overview
 
-**Odoo 16 Interface:**
-
-![Odoo 16 Dashboard](screenshots/odoo-16-dashboard.png)
-
-**Portainer-CE Interface:**
-
-![Portainer Dashboard](screenshots/portainer-dashboard.png)
-
-**NGINX Proxy Manager Interface:**
-
-![NGINX Proxy Manager](screenshots/nginx-proxy-manager.png)
-
-> 📷 **Note:** Ensure that the `screenshots` directory contains the above images for them to render correctly.
-
----
-
-## 📞 Support
-
-For issues or feature requests, please open an [issue](https://github.com/elblasy33/docker-beso/issues) on the GitHub repository.
-
----
 
 *This README was generated to provide a clear and structured overview of the `docker-beso` project, enhancing user experience and accessibility.*
 
