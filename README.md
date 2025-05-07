@@ -111,8 +111,7 @@ curl -s https://raw.githubusercontent.com/elblasy33/odoo18-docker-sh/main/run.sh
 
    * Select your OS version.
    * Choose `y` for installing Docker-CE, Docker-Compose, NGinX Proxy Manager, and Portainer-CE.
-   * When prompted, choose `1` for Portainer-CE.([MarkdownTools Blog][2])
-
+   * When prompted, choose `1` for Portainer-CE.
 ---
 
 
