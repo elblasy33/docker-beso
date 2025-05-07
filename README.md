@@ -37,8 +37,8 @@ curl -L -o elblasy.sh https://raw.githubusercontent.com/elblasy33/docker-beso/ma
 | **Portainer-CE**        | `http://your-ip:9000`  | Create your admin account                            |   |
 | **NGINX Proxy Manager** | `http://your-ip:81`    | Username: `admin@example.com` / Password: `changeme` |   |
 | **Odoo 16**             | `http://your-ip:8016`  | Master Password: `Elblasy2022@1234`                  |   |
-| **Odoo 15**             | `http://your-ip:8015`  | Master Password: `Elblasy2022@1234`                  |   |
-| **Odoo 14**             | `http://your-ip:8014`  | Master Password: `Elblasy2022@1234`                  |   |
+| **Odoo 17**             | `http://your-ip:8017`  | Master Password: `Elblasy2022@1234`                  |   |
+| **Odoo 18**             | `http://your-ip:8018`  | Master Password: `Elblasy2022@1234`                  |   |
 
 > 📝 **Note:** All Odoo instances are installed in `/opt`.
 
